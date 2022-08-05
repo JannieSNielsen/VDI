@@ -1,4 +1,4 @@
-%calcULS
+%calcULS - Edited version
 % calculation of extreme load in DLC 1.1 using load extrapolation based on full distribution of wind speed
 % and turbulence
 
