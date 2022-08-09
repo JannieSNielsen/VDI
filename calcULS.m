@@ -331,29 +331,3 @@ ylabel('1-cdf')
 % plot(x(2:end),Pshort2)
 % hold on
 % grid on
-
-%%
-% 
-% Lcov_yr =
-% 
-%     0.0626
-% 
-% Lchar_yr =
-% 
-%    1.6131e+05
-% 
-% 
-% 
-% Lmean_yr =
-% 
-%    1.3036e+05
-% 
-% 
-% Lcov_yr =
-% 
-%     0.0648
-% 
-% 
-% Lc =
-% 
-%    1.5227e+05
